@@ -1,0 +1,17 @@
+# yarn
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*
+
+# env files
+.env
+
+# build
+build/
+
+# generated pdfs
+*.pdf
