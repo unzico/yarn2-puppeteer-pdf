@@ -2,6 +2,9 @@
 
 Using puppeteer to generate PDFs doesn't work with yarn berry (v2 & v3).
 
+**Bug described in** https://github.com/yarnpkg/berry/issues/3783  
+**Fixed in** https://github.com/yarnpkg/berry/pull/3889
+
 ## How To
 
 1. `git clone` this project
